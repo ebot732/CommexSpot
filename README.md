@@ -2,7 +2,7 @@
 trading bot for exchange CommEX
 
 
-Бот для спот торговли на криптобирже Commex (аналог BinSpot-18).
+Бот для спот торговли на криптобирже Commex (аналог BinSpot-19).
 
 Запуск бота на VPS с ubuntu
 1. Подключаемся к серверу и по умолчанию находимся в корневом каталоге.
@@ -13,11 +13,11 @@ screen -S CommexSpot
 4. Заходим в папку CommexSpot командой:  
 cd CommexSpot
 5. Скачиваем бота в папку CommexSpot командой:  
-wget https://github.com/ebot732/CommexSpot/releases/download/CommexSpot-18/CommexSpot-18
+wget https://github.com/ebot732/CommexSpot/releases/download/CommexSpot-19/CommexSpot-19
 6. Даём права на запуск бота командой:  
-chmod 755 CommexSpot-18
+chmod 755 CommexSpot-19
 7. Запускаем  бота командой:  
-./CommexSpot-18  
+./CommexSpot-19  
 и следуем подсказкам.
 8. Выходим из работающего screen, не прерывая его работу, командой:  
 ctrl+a, d (при нажатой ctrl жмем а, отпускаем их, и затем жмем d)
