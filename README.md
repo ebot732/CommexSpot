@@ -1,5 +1,5 @@
 # CommexSpot
-trading bot for exchange CommEX
+Trading bot for CommEX exchange.
 
 
 Бот для спот торговли на криптобирже Commex (аналог BinSpot-19).
