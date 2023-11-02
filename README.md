@@ -13,11 +13,11 @@ screen -S CommexSpot
 4. Заходим в папку CommexSpot командой:  
 cd CommexSpot
 5. Скачиваем бота в папку CommexSpot командой:  
-wget https://github.com/ebot732/CommexSpot/releases/download/CommexSpot-19/CommexSpot-19
+wget https://github.com/ebot732/CommexSpot/releases/download/CommexSpot-20/CommexSpot-20
 6. Даём права на запуск бота командой:  
-chmod 755 CommexSpot-19
+chmod 755 CommexSpot-20
 7. Запускаем  бота командой:  
-./CommexSpot-19  
+./CommexSpot-20  
 и следуем подсказкам.
 8. Выходим из работающего screen, не прерывая его работу, командой:  
 ctrl+a, d (при нажатой ctrl жмем а, отпускаем их, и затем жмем d)
