@@ -1,6 +1,6 @@
 # CommexSpot
 Trading bot for CommEX exchange.
-
+( реф ссылка для регистрации: https://accounts.commex.com/en/register?ref=NUC4IQEU )
 
 Бот для спот торговли на криптобирже Commex (аналог BinSpot-20).
 
