@@ -2,7 +2,7 @@
 Trading bot for CommEX exchange.
 ( реф ссылка для регистрации: https://accounts.commex.com/en/register?ref=NUC4IQEU )
 
-Бот для спот торговли на криптобирже Commex (аналог BinSpot-20).
+Бот для спот торговли на криптобирже Commex (аналог BinSpot-21).
 
 Запуск бота на VPS с ubuntu
 1. Подключаемся к серверу и по умолчанию находимся в корневом каталоге.
@@ -13,11 +13,11 @@ screen -S CommexSpot
 4. Заходим в папку CommexSpot командой:  
 cd CommexSpot
 5. Скачиваем бота в папку CommexSpot командой:  
-wget https://github.com/ebot732/CommexSpot/releases/download/CommexSpot-20/CommexSpot-20
+wget https://github.com/ebot732/CommexSpot/releases/download/CommexSpot-21/CommexSpot-21
 6. Даём права на запуск бота командой:  
-chmod 755 CommexSpot-20
+chmod 755 CommexSpot-21
 7. Запускаем  бота командой:  
-./CommexSpot-20  
+./CommexSpot-21  
 и следуем подсказкам.
 8. Выходим из работающего screen, не прерывая его работу, командой:  
 ctrl+a, d (при нажатой ctrl жмем а, отпускаем их, и затем жмем d)
