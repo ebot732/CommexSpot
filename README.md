@@ -2,7 +2,7 @@
 Trading bot for CommEX exchange.
 ( реф ссылка для регистрации: https://accounts.commex.com/en/register?ref=NUC4IQEU )
 
-Бот для спот торговли на криптобирже Commex (аналог BinSpot-21).
+Бот для спот торговли на криптобирже Commex (аналог BinSpot-22).
 
    Бот может работать в одном из 3-х режимов:
 1.  Режим стандартный- перебор пар для выбора подходящей по всем заданным условиям: 
@@ -30,11 +30,11 @@ screen -S CommexSpot
 4. Заходим в папку CommexSpot командой:  
 cd CommexSpot
 5. Скачиваем бота в папку CommexSpot командой:  
-wget https://github.com/ebot732/CommexSpot/releases/download/CommexSpot-21/CommexSpot-21
+wget https://github.com/ebot732/CommexSpot/releases/download/CommexSpot-22/CommexSpot-22
 6. Даём права на запуск бота командой:  
-chmod 755 CommexSpot-21
+chmod 755 CommexSpot-22
 7. Запускаем  бота командой:  
-./CommexSpot-21  
+./CommexSpot-22  
 и следуем подсказкам.
 8. Выходим из работающего screen, не прерывая его работу, командой:  
 ctrl+a, d (при нажатой ctrl жмем а, отпускаем их, и затем жмем d)
